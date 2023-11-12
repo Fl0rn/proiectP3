@@ -24,6 +24,7 @@ public class main {
 	public static void main(String[] args) {
 		
 		gui incercare =new gui();
+		int a=2;
 		
 	}
 
